@@ -16,7 +16,7 @@
 
 🔹 Enjoy designing clean UIs and smooth user experiences
 
-🔹 Coffee ☕ + Code = 💖
+🔹 Music + Code = 💖
 
 
 
