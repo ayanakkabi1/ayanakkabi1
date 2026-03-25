@@ -16,22 +16,22 @@
 
 ### 🏗️ Backend & Logic
 
-\<p align="left"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg)" alt="Laravel" width="40" height="40"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)" alt="PHP" width="40" height="40"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python" width="40" height="40"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" alt="PostgreSQL" width="40" height="40"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" alt="Docker" width="40" height="40"/\>
-\</p\>
+<p align="left"\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg)" alt="Laravel" width="40" height="40"/\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)" alt="PHP" width="40" height="40"/\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python" width="40" height="40"/\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" alt="PostgreSQL" width="40" height="40"/\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" alt="Docker" width="40" height="40"/\>
+</p\>
 
 ### 🎨 Frontend & Design
 
-\<p align="left"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" alt="React" width="40" height="40"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" alt="JS" width="40" height="40"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)" alt="Tailwind" width="40" height="40"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)" alt="Figma" width="40" height="40"/\>
-\</p\>
+<p align="left"\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" alt="React" width="40" height="40"/\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" alt="JS" width="40" height="40"/\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)" alt="Tailwind" width="40" height="40"/\>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)" alt="Figma" width="40" height="40"/\>
+</p\>
 
 -----
 
