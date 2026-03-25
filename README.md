@@ -1,73 +1,52 @@
-## Hi there 👋
+# 🚀 Hello, I'm Aya\!
 
----
+**Developer by day, Product Strategist by night.** I’m a Full-Stack Developer based in Morocco, currently honing my craft at **YouCode**. I don't just build websites; I build digital experiences that are as functional under the hood as they are beautiful on the surface.
 
-👋 Hey there! I'm **Aya Nakkabi**
+-----
 
-🎓 Web Development student at **YouCode | Morocco**
-💻 I love turning ideas into beautiful and functional websites
-🚀 Currently building projects with **C, HTML, CSS, JavaScript, PHP & Python**
+## ⚡ A Little About Me
 
----
+  * **The Vibe:** Give me some good music and a complex problem to solve, and I'm in my happy place. 🎧 + 💻 = 🌟
+  * **The Tech:** While I'm fluent in the fundamentals like **C** and **PHP**, my heart currently belongs to the **Laravel** ecosystem and building robust APIs.
+  * **Current Mission:** Digitalizing logistics and making management systems feel modern and intuitive.
 
-## 🌟 About Me
+-----
 
-🔹 Curious and always learning new coding tricks
-🔹 Enjoy designing clean UIs and smooth user experiences
-🔹 Music + Code = 💖
+## 🛠️ My Digital Toolbox
 
----
+### 🏗️ Backend & Logic
 
-## 🛠️ Languages & Tools
+\<p align="left"\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg)" alt="Laravel" width="40" height="40"/\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)" alt="PHP" width="40" height="40"/\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python" width="40" height="40"/\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" alt="PostgreSQL" width="40" height="40"/\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" alt="Docker" width="40" height="40"/\>
+\</p\>
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+### 🎨 Frontend & Design
 
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/>
+\<p align="left"\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" alt="React" width="40" height="40"/\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" alt="JS" width="40" height="40"/\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)" alt="Tailwind" width="40" height="40"/\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)" alt="Figma" width="40" height="40"/\>
+\</p\>
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="35" height="35"/>
+-----
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
+## 📈 What's Cooking?
 
-  <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
-</p>
+  * 🧪 **Advanced API Documentation:** Currently obsessed with making sure every endpoint is perfectly documented with Swagger.
+  * 🚢 **Logistics Tech:** Working on a port management system to prove that "enterprise software" doesn't have to be ugly.
+  * ⚙️ **DevOps:** Learning how to make my deployments as smooth as my UI transitions.
 
----
+-----
 
-## 🎯 What I'm Learning
+## 🤝 Let's Chat\!
 
-✔ Building interactive web projects from scratch
-✔ Writing clean and efficient code in **C, PHP & Python**
-✔ Mastering **responsive design** with HTML & CSS
-✔ Working with **databases (MySQL & PostgreSQL)**
-✔ Designing interfaces with **Figma**
+I’m always open to talking about **clean code, UI/UX trends, or Product Management**.
 
----
-
-## 💌 Connect With Me
-
-GitHub: **[https://github.com/ayanakkabi1](https://github.com/ayanakkabi1)**
-Email: **[aynour200609@gmail.com](mailto:aynour200609@gmail.com)**
-
-
-
-Just say the word 😄
+  * 📫 Reach me at: **[aynour200609@gmail.com](mailto:aynour200609@gmail.com)**
+  * 🐙 Explore my repos: **[github.com/ayanakkabi1](https://github.com/ayanakkabi1)**
+  * 🌍 Based in: **Casablanca, Morocco**
