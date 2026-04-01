@@ -12,7 +12,6 @@
 
 -----
 
-## 🛠️ My Digital Toolbox
 
 ## 🛠️ Stack Technique
 
